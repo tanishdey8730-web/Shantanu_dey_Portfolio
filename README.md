@@ -160,9 +160,9 @@
 
 💼 Experience
 
-- 💻 RTNS (RT Network) – Internship (Ongoing)
+- 💻 RTNS (RT Network) – Internship
 - 🏢 XPMC – Internship
-
+- 💻 PAWMAX - Internship (on going)
 ---
 
 🎯 Highlights
