@@ -111,7 +111,7 @@
 <p align="center">
   <img src="tp.jpg" width="200"/>
 </p><p align="center">
-  <a href="https://tanishdey8730-web.github.io/tripgo01/">
+  <a href="https://tanishdey8730-web.github.io/tripgoo/">
     <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
   </a>
   <a href="https://github.com/tanishdey8730-web/tripgoo.git">
