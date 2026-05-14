@@ -139,6 +139,13 @@
   
 
 ---
+🤖 Nexus AI Chatbot
+
+<p align="center"> <img src="nexus.jpg" width="200"/> 
+</p> <p align="center"> <a href= https://tanishdey8730-web.github.io/AI-CHATBOT_NEXUS/> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/AI-CHATBOT_NEXUS.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+
+
+---
 
 📜 Certifications
 
