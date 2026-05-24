@@ -55,20 +55,20 @@
 
 ---
 
-🎬 Movie Recommendation System
+🌐 Sharda Setu (SIH 2025)
 
 <p align="center">
-  <img src="im.jpg" width="200"/>
+  <img src="sh.jpg" width="200"/>
 </p><p align="center">
-  <a href="https://tanishdey8730-web.github.io/Movieflixpro01/">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-green?style=for-the-badge"/>
+  <a href="https://tanishdey8730-web.github.io/shardasetu01/">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
   </a>
-  <a href="https://github.com/tanishdey8730-web/Movieflixpro01.git">
+  <a href="https://github.com/tanishdey8730-web/shardasetu01.git">
     <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/>
   </a>
-</p>- Built using TF-IDF & Cosine Similarity
-- Personalized recommendations using ML
-- Clean UI and responsive design
+</p>- Low-bandwidth e-learning platform
+- Reduced page load by 60%
+- Designed for Exam Preperation All in One 
 
 ---
 
@@ -89,20 +89,14 @@
 
 ---
 
-🌐 Sharda Setu (SIH 2025)
+🧠 ResumeIQ – AI Resume Analyzer
 
-<p align="center">
-  <img src="sh.jpg" width="200"/>
-</p><p align="center">
-  <a href="https://tanishdey8730-web.github.io/shardasetu01/">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/tanishdey8730-web/shardasetu01.git">
-    <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/>
-  </a>
-</p>- Low-bandwidth e-learning platform
-- Reduced page load by 60%
-- Designed for rural connectivity
+<p align="center"> <img src="resumee.jpg" width="200"/> 
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+
+
+
+
 
 ---
 
@@ -122,11 +116,21 @@
 - Built during SIH 2024
 
 ---
-🧠 ResumeIQ – AI Resume Analyzer
 
-<p align="center"> <img src="resumee.jpg" width="200"/> 
-</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+🎬 Movie Recommendation System
 
+<p align="center">
+  <img src="im.jpg" width="200"/>
+</p><p align="center">
+  <a href="https://tanishdey8730-web.github.io/Movieflixpro01/">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-green?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/tanishdey8730-web/Movieflixpro01.git">
+    <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/>
+  </a>
+</p>- Built using TF-IDF & Cosine Similarity
+- Personalized recommendations using ML
+- Clean UI and responsive design
 
 ---
 🧠 AI-Powered Medical Assistance
@@ -136,9 +140,8 @@
   <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/Medic_for_u.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
 
-  
-
 ---
+
 🤖 Nexus AI Chatbot
 
 <p align="center"> <img src="nexus.jpg" width="200"/> 
