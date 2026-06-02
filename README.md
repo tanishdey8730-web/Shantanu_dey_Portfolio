@@ -147,7 +147,7 @@ ResumeIQ – AI-powered resume analyzer that evaluates ATS compatibility, identi
 
 
  Face Recognaization System – AI-powered face recognition platform that detects, identifies, and manages individuals using advanced computer vision and deep        learning models.
- -
+ 
 
 
 ---
@@ -158,11 +158,11 @@ ResumeIQ – AI-powered resume analyzer that evaluates ATS compatibility, identi
 
 
 
-🆘 Safe SOS – Emergency safety platform enabling secure authentication, real-time SOS alerts, emergency contact management, OTP verification, and rapid incident response.
+Safe SOS – Emergency safety platform enabling secure authentication, real-time SOS alerts, emergency contact management, OTP verification, and rapid incident response.
 
 
 ---
-🕵️ FakeShield AI
+🕵️ TruthGuard AI
 
 
  <p align="center"> <img src="resumee.jpg" width="200"/> 
@@ -170,7 +170,7 @@ ResumeIQ – AI-powered resume analyzer that evaluates ATS compatibility, identi
 
 
 
-🕵️ FakeShield AI – AI-powered fake news and deepfake detection platform that analyzes text, images, audio, and videos to identify misinformation and manipulated content with real-time accuracy.
+ TruthGuard AI – AI-powered fake news and deepfake detection platform that analyzes text, images, audio, and videos to identify misinformation and manipulated       content with real-time accuracy.
 
 ---
 
