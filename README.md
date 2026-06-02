@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=800808&size=31&center=true&vCenter=true&width=500&lines=Data+Scientist;Full+Stack +Developer;UI+UX+designer;AI+Engineer;Machine+Learning+Enthusiast;Python+programming;SQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=800808&size=31&center=true&vCenter=true&width=500&lines=Data+Scientist;Web+Developer;AI+Engineer;Machine+Learning+Enthusiast;Python+programming;SQL" />
 </p>---
 
 🚀 About Me
@@ -67,7 +67,8 @@ Git • GitHub • VS Code • Postman • Figma
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishdey8730-web&theme=react-dark" />
-</p>---
+</p>
+---
 
 ## 🏆 GitHub Trophies
 
