@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=800808&size=31&center=true&vCenter=true&width=500&lines=Data+Scientist;Web+Developer;UI+UX+designer;Machine+Learning+Enthusiast;Python+programming;SQL" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=800808&size=31&center=true&vCenter=true&width=500&lines=Data+Scientist;Full+Stack +Developer;UI+UX+designer;AI Engineer;Machine+Learning+Enthusiast;Python+programming;SQL" />
 </p>---
 
 🚀 About Me
@@ -18,6 +18,24 @@
 ---
 
 🛠️ Tech Stack
+
+Languages
+Python • Java • JavaScript • SQL
+
+Frontend
+HTML • CSS • React.js • Next.js • Tailwind CSS
+
+Backend
+Node.js • Express.js • FastAPI
+
+Database
+MongoDB • MySQL • SQLite
+
+AI/ML
+Scikit-Learn • OpenCV • Pandas • NumPy • TensorFlow
+
+Tools
+Git • GitHub • VS Code • Postman • Figma
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,html,css,js,mysql" />
@@ -51,24 +69,80 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanishdey8730-web&theme=react-dark" />
 </p>---
 
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=tanishdey8730-web&theme=tokyonight"/>
+
+
 🚀 Projects
 
 ---
 
-🌐 Sharda Setu (SIH 2025)
+🤖 PlacePro AI - AI Placement Preparation Platform
 
-<p align="center">
-  <img src="sh.jpg" width="200"/>
-</p><p align="center">
-  <a href="https://tanishdey8730-web.github.io/shardasetu01/">
-    <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/tanishdey8730-web/shardasetu01.git">
-    <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/>
-  </a>
-</p>- Low-bandwidth e-learning platform
-- Reduced page load by 60%
-- Designed for Exam Preperation All in One 
+<p align="center"> <img src="place.png" width="200"/> 
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+
+
+PlacePro AI – AI-powered placement preparation platform featuring mock interviews, resume analysis, 
+coding practice, aptitude training, and personalized career guidance.
+
+Tech Stack:
+React • Node.js • MongoDB • OpenAI API • JWT
+
+---
+🕵️ TruthGuard AI
+
+
+ <p align="center"> <img src="truth.png" width="200"/> 
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+
+
+
+ TruthGuard AI – AI-powered fake news and deepfake detection platform that analyzes text, images, audio, and videos to identify misinformation and manipulated       content with real-time accuracy.
+ 
+ Tech Stack: React.js, Python, Flask/FastAPI, TensorFlow, OpenCV, NLP, Machine Learning, MongoDB
+
+
+---
+👤 FaceReco System
+
+ <p align="center"> <img src="face.png" width="200"/> 
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+
+
+ Face Recognition System – AI-powered face recognition platform that detects, identifies, and manages individuals using advanced computer vision and deep        learning models.
+
+Tech Stack: React.js, FastAPI, Python, OpenCV, YuNet, SFace, SQLite, NumPy
+
+---
+
+🧠 ResumeIQ – AI Resume Analyzer
+
+<p align="center"> <img src="resumee.jpg" width="200"/> 
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+
+
+
+ResumeIQ – AI-powered resume analyzer that evaluates ATS compatibility, identifies skill gaps, provides improvement suggestions, and enhances job application      success.AI Resume Analyzer
+• ATS scoring engine
+• 90%+ keyword matching accuracy
+• Resume analysis in under 3 seconds
+
+Tech Stack: React.js, Node.js, Express.js, OpenAI API, PDF Parser, MongoDB, Tailwind CSS
+
+---
+🎨 PromptCraft – AI-powered graphic generation platform 
+
+<p align="center"> <img src="prompt.png" width="200"/> 
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+
+
+
+ PromptCraft – AI-powered graphic generation platform that transforms text prompts into high-quality images using advanced AI models and                         
+ customizable artistic styles.
+ 
+ Tech Stack: React.js, Vite, Node.js, Express.js, OpenAI DALL·E 3 API, JavaScript, CSS
 
 ---
 
@@ -87,41 +161,41 @@
 - Analysis of 28+ years dataset
 - Found key insights like depreciation trends
 
+Tech Stack: Python, Pandas, NumPy, Scikit-Learn, Random Forest, Matplotlib, Jupyter Notebook
+
 ---
 
+🌐 Sharda Setu (SIH 2025)
 
-🤖 PlacePro AI - AI Placement Preperation Platform
+<p align="center">
+  <img src="sh.jpg" width="200"/>
+</p><p align="center">
+  <a href="https://tanishdey8730-web.github.io/shardasetu01/">
+    <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/tanishdey8730-web/shardasetu01.git">
+    <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/>
+  </a>
+</p>- Low-bandwidth e-learning platform
+- Reduced page load by 60%
+- Designed for Exam Preperation All in One 
+Tech Stack: HTML, CSS, JavaScript, Service Workers, Progressive Web App (PWA), Firebase
 
-<p align="center"> <img src="place.png" width="200"/> 
+
+---
+
+🆘 Safe SOS System
+ 
+ <p align="center"> <img src="sos.webp" width="200"/> 
 </p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
 
-PlacePro AI – AI-powered placement preparation platform featuring mock interviews, resume analysis, 
-coding practice, aptitude training, and personalized career guidance.
+
+Safe SOS – Emergency safety platform enabling secure authentication, real-time SOS alerts, emergency contact management, OTP verification, and rapid incident response.
+
+Tech Stack: Next.js, Node.js, Express.js, Prisma ORM, SQLite, JWT Authentication, OTP Verification
 
 ---
-
-🧠 ResumeIQ – AI Resume Analyzer
-
-<p align="center"> <img src="resumee.jpg" width="200"/> 
-</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
-
-
-ResumeIQ – AI-powered resume analyzer that evaluates ATS compatibility, identifies skill gaps, provides improvement suggestions, and enhances job application      success.
-
----
-🎨 PromptCraft – AI-powered graphic generation platform 
-
-<p align="center"> <img src="prompt.png" width="200"/> 
-</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
-
-
-
- PromptCraft – AI-powered graphic generation platform that transforms text prompts into high-quality images using advanced AI models and                         
- customizable artistic styles.
-
----
-
 🧳 TripGo – Booking Platform
 
 <p align="center">
@@ -136,40 +210,7 @@ ResumeIQ – AI-powered resume analyzer that evaluates ATS compatibility, identi
 </p>- Online hotel & ticket booking system
 - User-friendly UI/UX design
 - Built during SIH 2024
-
----
-
-👤 FaceReco System
-
- <p align="center"> <img src="face.png" width="200"/> 
-</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
-
-
- Face Recognaization System – AI-powered face recognition platform that detects, identifies, and manages individuals using advanced computer vision and deep        learning models.
- 
-
-
----
-🆘 Safe SOS System
- 
- <p align="center"> <img src="sos.webp" width="200"/> 
-</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
-
-
-
-Safe SOS – Emergency safety platform enabling secure authentication, real-time SOS alerts, emergency contact management, OTP verification, and rapid incident response.
-
-
----
-🕵️ TruthGuard AI
-
-
- <p align="center"> <img src="truth.png" width="200"/> 
-</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
-
-
-
- TruthGuard AI – AI-powered fake news and deepfake detection platform that analyzes text, images, audio, and videos to identify misinformation and manipulated       content with real-time accuracy.
+Tech Stack: HTML, CSS, JavaScript, React.js, Node.js, MongoDB, Google Maps API
 
 ---
 
@@ -187,6 +228,7 @@ Safe SOS – Emergency safety platform enabling secure authentication, real-time
 </p>- Built using TF-IDF & Cosine Similarity
 - Personalized recommendations using ML
 - Clean UI and responsive design
+Tech Stack: Python, Pandas, NumPy, Scikit-Learn, TF-IDF, Cosine Similarity, Streamlit
 
 ---
 🧠 AI-Powered Medical Assistance
@@ -195,15 +237,27 @@ Safe SOS – Emergency safety platform enabling secure authentication, real-time
 </p> <p align="center"> <a href= "https://tanishdey8730-web.github.io/Medic_for_u/">
   <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/Medic_for_u.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
+Medic For U – AI-powered healthcare assistance platform that provides symptom analysis, medical guidance, health recommendations, and intelligent support for improved patient care and wellness.
+Tech Stack: React.js, Node.js, Express.js, OpenAI API, MongoDB, Healthcare NLP
 
 ---
 
-🤖 Nexus AI Chatbot
+🤖 DexTer AI Chatbot
 
 <p align="center"> <img src="nexus.jpg" width="200"/> 
 </p> <p align="center"> <a href= https://tanishdey8730-web.github.io/AI-CHATBOT_NEXUS/> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/AI-CHATBOT_NEXUS.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
+Dexter AI – Intelligent conversational chatbot that provides real-time assistance, answers queries, automates tasks, and delivers personalized user interactions using advanced AI and natural language processing.
 
+Tech Stack: React.js, Node.js, Express.js, OpenAI API, JavaScript, MongoDB
+
+---
+🚀  Deployment Skills
+
+    Vercel
+    Render
+    Netlify
+    
 ---
 
 📜 Certifications
@@ -236,9 +290,30 @@ Safe SOS – Emergency safety platform enabling secure authentication, real-time
 
 💼 Experience
 
-- 💻 RTNS (RT Network) – Internship
-- 🏢 XPMC – Internship
 - 💻 PAWMAX - Internship (on going)
+- ### Frontend Developer Intern | PAWMAX
+- Developing responsive e-commerce interfaces
+- Improving UI/UX and frontend performance
+- Working with React and modern frontend workflows
+
+- 💻 RTNS (RT Network) – Internship
+- ### GenAI Prompt Engineer Intern | RTNS & iMerit
+- Designed and optimized AI prompts
+- Worked on Generative AI workflows
+- Improved prompt accuracy and response quality
+
+- 🏢 XPMC – Internship
+- ### AWS DevOps Intern | XPMC
+- Learned deployment pipelines
+- Worked with cloud infrastructure concepts
+- Assisted in DevOps workflow automation
+
+- 💻 Deloitte simmulation 
+- ### Deloitte Data Analytics Simulation
+- Performed data cleaning and visualization
+- Derived business insights from datasets
+
+
 ---
 
 🎯 Highlights
@@ -251,6 +326,11 @@ Safe SOS – Emergency safety platform enabling secure authentication, real-time
 
 ---
 
+## 🐍 Contribution Graph
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+---
 📫 Connect With Me
 
 <p align="center">
