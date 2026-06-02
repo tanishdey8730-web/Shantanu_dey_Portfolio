@@ -73,9 +73,7 @@ Git • GitHub • VS Code • Postman • Figma
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=tanishdey8730&theme=tokyonight&row=1&column=6"/>
-  
+ <img src="https://github-profile-trophy.vercel.app/?username=tanishdey8730&theme=react-dark"/>
 </p>
 
 🚀 Projects
