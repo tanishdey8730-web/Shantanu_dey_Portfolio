@@ -72,8 +72,11 @@ Git • GitHub • VS Code • Postman • Figma
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=tanishdey8730-web&theme=tokyonight"/>
-
+<p align="center">
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=tanishdey8730-web&theme=tokyonight&row=1&column=6"/>
+  
+</p>
 
 🚀 Projects
 
@@ -253,12 +256,8 @@ Dexter AI – Intelligent conversational chatbot that provides real-time assista
 Tech Stack: React.js, Node.js, Express.js, OpenAI API, JavaScript, MongoDB
 
 ---
-🚀  Deployment Skills
-
-    Vercel
-    Render
-    Netlify
-    
+ ## 🚀Deployment Skills 
+- vercel
 ---
 
 📜 Certifications
