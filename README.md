@@ -90,12 +90,14 @@
 ---
 
 
-🤖 PlacePro AI - AI Placement Preperation
+🤖 PlacePro AI - AI Placement Preperation Platform
 
-<p align="center"> <img src="resumee.jpg" width="200"/> 
+<p align="center"> <img src="place.png" width="200"/> 
 </p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
 
+PlacePro AI – AI-powered placement preparation platform featuring mock interviews, resume analysis, 
+coding practice, aptitude training, and personalized career guidance.
 
 ---
 
@@ -105,8 +107,19 @@
 </p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
 
+ResumeIQ – AI-powered resume analyzer that evaluates ATS compatibility, identifies skill gaps, provides improvement suggestions, and enhances job application      success.
+
+---
+🎨 PromptCraft – AI-powered graphic generation platform 
+
+<p align="center"> <img src="resumee.jpg" width="200"/> 
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
 
+
+
+🎨 PromptCraft – AI-powered graphic generation platform that transforms text prompts into high-quality images using advanced AI models and                         
+   customizable artistic styles.
 
 ---
 
@@ -124,6 +137,40 @@
 </p>- Online hotel & ticket booking system
 - User-friendly UI/UX design
 - Built during SIH 2024
+
+---
+
+👤 FaceReco System
+
+ <p align="center"> <img src="resumee.jpg" width="200"/> 
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+
+
+ Face Recognaization System – AI-powered face recognition platform that detects, identifies, and manages individuals using advanced computer vision and deep        learning models.
+ -
+
+
+---
+🆘 Safe SOS System
+ 
+ <p align="center"> <img src="resumee.jpg" width="200"/> 
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+
+
+
+🆘 Safe SOS – Emergency safety platform enabling secure authentication, real-time SOS alerts, emergency contact management, OTP verification, and rapid incident response.
+
+
+---
+🕵️ FakeShield AI
+
+
+ <p align="center"> <img src="resumee.jpg" width="200"/> 
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+
+
+
+🕵️ FakeShield AI – AI-powered fake news and deepfake detection platform that analyzes text, images, audio, and videos to identify misinformation and manipulated content with real-time accuracy.
 
 ---
 
