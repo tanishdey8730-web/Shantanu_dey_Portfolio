@@ -74,7 +74,7 @@ Git • GitHub • VS Code • Postman • Figma
 
 <p align="center">
 <img 
-  src="https://github-profile-trophy.vercel.app/?username=tanishdey8730-web&theme=tokyonight&row=1&column=6"/>
+  src="https://github-profile-trophy.vercel.app/?username=tanishdey8730&theme=tokyonight&row=1&column=6"/>
   
 </p>
 
