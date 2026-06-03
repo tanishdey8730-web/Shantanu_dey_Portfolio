@@ -189,7 +189,7 @@ Tech Stack: HTML, CSS, JavaScript, Service Workers, Progressive Web App (PWA), F
 🆘 Safe SOS System
  
  <p align="center"> <img src="sos.webp" width="200"/> 
-</p> <p align="center"> <a href=" "> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/SOS_SYSTEM_.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/SOS_SYSTEM_/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/SOS_SYSTEM_.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
 
 
