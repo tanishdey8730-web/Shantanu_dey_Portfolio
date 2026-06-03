@@ -83,7 +83,7 @@ Git • GitHub • VS Code • Postman • Figma
 🤖 PlacePro AI - AI Placement Preparation Platform
 
 <p align="center"> <img src="place.png" width="200"/> 
-</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/PLACE_PRO/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/PLACE_PRO.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
 
 PlacePro AI – AI-powered placement preparation platform featuring mock interviews, resume analysis, 
@@ -97,7 +97,7 @@ React • Node.js • MongoDB • OpenAI API • JWT
 
 
  <p align="center"> <img src="truth.png" width="200"/> 
-</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+</p> <p align="center"> <a href=" https://tanishdey8730-web.github.io/Fake-News-Deepfake-Detection/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/Fake-News-Deepfake-Detection.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
 
 
@@ -110,7 +110,7 @@ React • Node.js • MongoDB • OpenAI API • JWT
 👤 FaceReco System
 
  <p align="center"> <img src="face.jpg" width="200"/> 
-</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/FACE_RECO_SYSTEM_/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/FACE_RECO_SYSTEM_.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
 
  Face Recognition System – AI-powered face recognition platform that detects, identifies, and manages individuals using advanced computer vision and deep        learning models.
@@ -137,7 +137,7 @@ Tech Stack: React.js, Node.js, Express.js, OpenAI API, PDF Parser, MongoDB, Tail
 🎨 PromptCraft – AI-powered graphic generation platform 
 
 <p align="center"> <img src="prompt.png" width="200"/> 
-</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/PromptCraft/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/PromptCraft.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
 
 
@@ -189,7 +189,7 @@ Tech Stack: HTML, CSS, JavaScript, Service Workers, Progressive Web App (PWA), F
 🆘 Safe SOS System
  
  <p align="center"> <img src="sos.webp" width="200"/> 
-</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/ai-resume-analyzer/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/ai-resume-analyzer.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+</p> <p align="center"> <a href=" "> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/SOS_SYSTEM_.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
 
 
