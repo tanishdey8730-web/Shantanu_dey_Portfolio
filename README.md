@@ -83,7 +83,7 @@ Git • GitHub • VS Code • Postman • Figma
 🤖 PlacePro AI - AI Placement Preparation Platform
 
 <p align="center"> <img src="place.png" width="200"/> 
-</p> <p align="center"> <a href="https://tanishdey8730-web.github.io/PLACE_PRO/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/PLACE_PRO.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
+</p> <p align="center"> <a href="https://place-pro-web.vercel.app/"> <img src="https://img.shields.io/badge/🌐 Live Demo-grey?style=for-the-badge"/> </a> <a href="https://github.com/tanishdey8730-web/PLACE_PRO.git"> <img src="https://img.shields.io/badge/💻 Source Code-black?style=for-the-badge"/> </a> </p>
 
 
 PlacePro AI – AI-powered placement preparation platform featuring mock interviews, resume analysis, 
