@@ -20,7 +20,7 @@
 🛠️ Tech Stack
 
 Languages
-Python • Java • JavaScript • SQL
+Python • Java • JavaScript • SQL • typescript
 
 Frontend
 HTML • CSS • React.js • Next.js • Tailwind CSS
